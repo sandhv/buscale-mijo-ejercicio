@@ -1,0 +1,17 @@
+.grid{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+
+p{
+    margin:0;
+}
+
+.odd{
+    background-color: lightblue;
+    padding: 16px 8px;
+}
+.even{
+    background-color: lightgoldenrodyellow;
+    padding: 16px 8px;
+}

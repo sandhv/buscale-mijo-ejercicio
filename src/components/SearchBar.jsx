@@ -1,0 +1,1 @@
+// ¿eres capaz de imaginar una barra de búsqueda?
