@@ -2,8 +2,9 @@ import { useState } from 'react'
 import Table from './components/Table'
 import getPeople from './utils/getPeople'
 
+const users = getPeople();
+
 function App() {
-  const users = getPeople();
 
   return (
     <>
