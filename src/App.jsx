@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import Table from './components/Table'
 import getPeople from './utils/getPeople'
-import Buscador from './components/buscador';
+import Buscador from './components/Buscador';
 
 const users = getPeople();
 
